@@ -1,0 +1,23 @@
+main {
+    /* scroll horizontally as needed */
+    overflow-x: auto;
+
+    /* center contents */
+    text-align: center;
+}
+
+.timeGuardianPlus {
+	font-family: 'Montserrat';
+	color: darkblue;
+	font-size: 48px;
+  	font-weight: 700;
+	display: inline;  
+}
+
+.nav-link {
+	font-size: 20px;
+}
+
+.icon {
+	border-radius: 10px;
+}
